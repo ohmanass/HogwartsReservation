@@ -1,0 +1,2 @@
+ROOMS_DICT = {}
+BOOKINGS_DICT = {}
